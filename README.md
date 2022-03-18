@@ -1,4 +1,4 @@
-# Random Vanilla JavaScript Apps and Games
+# Vanilla JavaScript Apps and Games
 ## The Quiz App
 That app is based on two small JavaScript files: one with all the mechanics and another with quiz questions; both files are linked into an HTML page which serves as an app starter. The user has options to answer or take money at every quiz stage. The app checks users’ answers according to the quiz questions database and built-in rules of answer expectations: the app can process all the incorrect inputs and say what’s wrong.
 
